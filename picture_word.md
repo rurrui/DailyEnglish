@@ -3,4 +3,6 @@
 3.polar bear  
 4.seal  
 5.rhinoceros  
-6.hippopotamus
+6.hippopotamus  
+7.leopard  
+8.lion
