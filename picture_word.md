@@ -5,4 +5,6 @@
 5.rhinoceros  
 6.hippopotamus  
 7.leopard  
-8.lion
+8.lion  
+9.cheetah  
+10.tiger
