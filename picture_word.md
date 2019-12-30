@@ -9,4 +9,6 @@
 9.cheetah  
 10.tiger  
 11.fox  
-12.hedgehog
+12.hedgehog  
+13.ferret  
+14.squirrel
