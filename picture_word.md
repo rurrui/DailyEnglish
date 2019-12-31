@@ -11,4 +11,7 @@
 11.fox  
 12.hedgehog  
 13.ferret  
-14.squirrel
+14.squirrel  
+15.aardvark  
+16.baseball cap  
+17.bowler
