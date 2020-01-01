@@ -9,4 +9,5 @@
 9.I'm gonna stock up on water.  
 10.I'm counting on you.  
 11.I had a lone week.  
-12.Thank God,it's Friday!
+12.Thank God,it's Friday!  
+13.Did you get out verb+ing?
