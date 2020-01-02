@@ -16,4 +16,6 @@
 16.baseball cap  
 17.bowler  
 18.helmet  
-19.crown
+19.crown  
+20.boater  
+21.top hat
