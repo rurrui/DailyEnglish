@@ -18,4 +18,8 @@
 18.helmet  
 19.crown  
 20.boater  
-21.top hat
+21.top hat  
+22.dining table  
+23.coffee table  
+24.chest of drawers  
+25.filling cabinet
