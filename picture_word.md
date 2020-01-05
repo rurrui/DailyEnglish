@@ -22,4 +22,6 @@
 22.dining table  
 23.coffee table  
 24.chest of drawers  
-25.filling cabinet
+25.filling cabinet   
+26.cheese board  
+27.circuit board
