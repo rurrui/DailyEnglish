@@ -24,4 +24,10 @@
 24.chest of drawers  
 25.filling cabinet   
 26.cheese board  
-27.circuit board
+27.circuit board  
+28.mortarboard  
+29.blackboard  
+30.damp  
+31.humiliating  
+32.chessboard  
+33.draughtboard  
