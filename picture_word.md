@@ -31,3 +31,6 @@
 31.humiliating  
 32.chessboard  
 33.draughtboard  
+34.moth  
+35.butterfly  
+36.bad-tempered
