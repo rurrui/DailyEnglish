@@ -33,4 +33,6 @@
 33.draughtboard  
 34.moth  
 35.butterfly  
-36.bad-tempered
+36.bad-tempered  
+37.mosquito  
+38.praying mantis  
