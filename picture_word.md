@@ -36,3 +36,6 @@
 36.bad-tempered  
 37.mosquito  
 38.praying mantis  
+39.telescope  
+40.microscope  
+41.knead
