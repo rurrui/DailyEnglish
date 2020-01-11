@@ -38,4 +38,7 @@
 38.praying mantis  
 39.telescope  
 40.microscope  
-41.knead
+41.knead  
+42.rocking chair  
+43.deckchair  
+44.moody
