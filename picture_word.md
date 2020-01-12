@@ -41,4 +41,7 @@
 41.knead  
 42.rocking chair  
 43.deckchair  
-44.moody
+44.moody  
+45.armchair  
+46.sofa  
+47.
