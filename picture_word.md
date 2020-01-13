@@ -44,4 +44,6 @@
 44.moody  
 45.armchair  
 46.sofa  
-47.
+47.stool  
+48.bench  
+49.
