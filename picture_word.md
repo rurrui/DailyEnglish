@@ -46,4 +46,5 @@
 46.sofa  
 47.stool  
 48.bench  
-49.
+49.comb  
+50.hairbrush
